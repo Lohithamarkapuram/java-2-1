@@ -1,3 +1,7 @@
+/*1) Write a Java Program to implement Method Overloading 
+			- Single Parameters
+			- Multiple Parameters
+			- Different Datatypes */
 public class MethodOverloading{
 
     public void display(int number) {
