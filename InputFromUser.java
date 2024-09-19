@@ -1,4 +1,4 @@
-
+//2) Write a Java Program to implement Scanner Class (Takes input from user and display student details
 import java.util.Scanner;
 
 public class InputFromUser {
