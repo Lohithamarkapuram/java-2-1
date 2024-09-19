@@ -1,3 +1,4 @@
+//9) Write a Java Program to Print Name, Emp Id, Designation and Company name using get and set method
 public class Employee {
     private String name;
     private int empId;
