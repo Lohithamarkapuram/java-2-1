@@ -1,3 +1,4 @@
+//8) Write a Java Program to Print first letter of your name (Use Scanner class & loop
 import java.util.Scanner;
 
 public class LetterLPattern {
