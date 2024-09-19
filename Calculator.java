@@ -1,3 +1,4 @@
+//7) Write a Java Program to create a Calculator using Switch case (Use Scanner Class)
 import java.util.Scanner;
 
 public class Calculator {
