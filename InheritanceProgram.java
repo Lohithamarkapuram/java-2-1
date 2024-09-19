@@ -1,4 +1,4 @@
-
+//3) Write a Java Program to implement basic Inheritance program
 class InheritanceProgram{
 	public static void main(String[] args) {
 		Sub obj = new Sub();
